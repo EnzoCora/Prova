@@ -1,0 +1,12 @@
+C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\bin\Debug\ProvaProgEstru.exe.config
+C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\bin\Debug\ProvaProgEstru.exe
+C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\bin\Debug\ProvaProgEstru.pdb
+C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\obj\Debug\ProvaProgEstru.csproj.AssemblyReference.cache
+C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\obj\Debug\ProvaProgEstru.Form1.resources
+C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\obj\Debug\ProvaProgEstru.Properties.Resources.resources
+C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\obj\Debug\ProvaProgEstru.csproj.GenerateResource.cache
+C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\obj\Debug\ProvaProgEstru.csproj.CoreCompileInputs.cache
+C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\obj\Debug\ProvaProgEstru.exe
+C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\obj\Debug\ProvaProgEstru.pdb
+C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\obj\Debug\ProvaProgEstru.exe.config
+C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\obj\Debug\ProvaProgEstru.Principal.resources
