@@ -10,3 +10,4 @@ C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\obj\Debug\
 C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\obj\Debug\ProvaProgEstru.pdb
 C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\obj\Debug\ProvaProgEstru.exe.config
 C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\obj\Debug\ProvaProgEstru.Principal.resources
+C:\Users\Enzo Corá\source\repos\Prova2\ProvaProgEstru\ProvaProgEstru\obj\Debug\ProvaProgEstru.CadCliente.resources

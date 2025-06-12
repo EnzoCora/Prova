@@ -317,7 +317,7 @@
             this.Controls.Add(this.txtNome);
             this.Controls.Add(this.label1);
             this.Name = "CadCliente";
-            this.Text = "CadCliente";
+            this.Text = "Cadastro Cliente";
             this.ResumeLayout(false);
             this.PerformLayout();
 
