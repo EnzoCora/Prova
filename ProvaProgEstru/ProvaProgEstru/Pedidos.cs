@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace ProvaProgEstru
 {
-    public partial class CadUsuario : Form
+    public partial class Pedidos : Form
     {
-        public CadUsuario()
+        public Pedidos()
         {
             InitializeComponent();
-        }
-
-        private void btnCadastrar_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

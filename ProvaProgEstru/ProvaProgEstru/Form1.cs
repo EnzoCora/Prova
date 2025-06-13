@@ -17,7 +17,7 @@ namespace ProvaProgEstru
         {
             InitializeComponent();
         }
-        string CaminhoCsv = "C:\\Users\\Enzo Corá\\source\\repos\\Prova2\\ProvaProgEstru\\.csv\\usuario";
+        string CaminhoCsv = "C:\\Users\\Enzo Corá\\source\\repos\\Prova2\\ProvaProgEstru\\Dados\\Dados";
 
         private void btnEnviar_Click(object sender, EventArgs e)
         {

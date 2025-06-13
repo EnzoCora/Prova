@@ -83,6 +83,7 @@
             this.btnCadastrar.TabIndex = 4;
             this.btnCadastrar.Text = "Cadastrar";
             this.btnCadastrar.UseVisualStyleBackColor = true;
+            this.btnCadastrar.Click += new System.EventHandler(this.btnCadastrar_Click);
             // 
             // dataGridView1
             // 
@@ -138,9 +139,9 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(291, 7);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(43, 13);
+            this.label4.Size = new System.Drawing.Size(77, 13);
             this.label4.TabIndex = 9;
-            this.label4.Text = "Usuário";
+            this.label4.Text = "Excluir Usuário";
             // 
             // CadUsuario
             // 

@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
+            this.btnCadCliente = new System.Windows.Forms.Button();
+            this.btnCadProduto = new System.Windows.Forms.Button();
+            this.btnCadPedido = new System.Windows.Forms.Button();
+            this.btnCadUsuario = new System.Windows.Forms.Button();
             this.btnConsultPedido = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -45,42 +45,45 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Selecione uma das 5 Opções";
             // 
-            // button1
+            // btnCadCliente
             // 
-            this.button1.Location = new System.Drawing.Point(37, 66);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(121, 23);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Cadastrar Cliente";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btnCadCliente.Location = new System.Drawing.Point(37, 66);
+            this.btnCadCliente.Name = "btnCadCliente";
+            this.btnCadCliente.Size = new System.Drawing.Size(121, 23);
+            this.btnCadCliente.TabIndex = 1;
+            this.btnCadCliente.Text = "Cadastrar Cliente";
+            this.btnCadCliente.UseVisualStyleBackColor = true;
+            this.btnCadCliente.Click += new System.EventHandler(this.button1_Click);
             // 
-            // button2
+            // btnCadProduto
             // 
-            this.button2.Location = new System.Drawing.Point(37, 109);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(121, 23);
-            this.button2.TabIndex = 2;
-            this.button2.Text = "Cadastrar Produtos";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnCadProduto.Location = new System.Drawing.Point(37, 109);
+            this.btnCadProduto.Name = "btnCadProduto";
+            this.btnCadProduto.Size = new System.Drawing.Size(121, 23);
+            this.btnCadProduto.TabIndex = 2;
+            this.btnCadProduto.Text = "Cadastrar Produtos";
+            this.btnCadProduto.UseVisualStyleBackColor = true;
+            this.btnCadProduto.Click += new System.EventHandler(this.button2_Click);
             // 
-            // button3
+            // btnCadPedido
             // 
-            this.button3.Location = new System.Drawing.Point(37, 149);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(121, 23);
-            this.button3.TabIndex = 3;
-            this.button3.Text = "Cadastrar Pedido";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btnCadPedido.Location = new System.Drawing.Point(37, 149);
+            this.btnCadPedido.Name = "btnCadPedido";
+            this.btnCadPedido.Size = new System.Drawing.Size(121, 23);
+            this.btnCadPedido.TabIndex = 3;
+            this.btnCadPedido.Text = "Cadastrar Pedido";
+            this.btnCadPedido.UseVisualStyleBackColor = true;
+            this.btnCadPedido.Click += new System.EventHandler(this.btnCadPedido_Click);
             // 
-            // button4
+            // btnCadUsuario
             // 
-            this.button4.Location = new System.Drawing.Point(37, 187);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(121, 23);
-            this.button4.TabIndex = 4;
-            this.button4.Text = "Cadastrar Usuário";
-            this.button4.UseVisualStyleBackColor = true;
+            this.btnCadUsuario.Location = new System.Drawing.Point(37, 187);
+            this.btnCadUsuario.Name = "btnCadUsuario";
+            this.btnCadUsuario.Size = new System.Drawing.Size(121, 23);
+            this.btnCadUsuario.TabIndex = 4;
+            this.btnCadUsuario.Text = "Cadastrar Usuário";
+            this.btnCadUsuario.UseVisualStyleBackColor = true;
+            this.btnCadUsuario.Click += new System.EventHandler(this.btnCadUsuario_Click);
             // 
             // btnConsultPedido
             // 
@@ -90,6 +93,7 @@
             this.btnConsultPedido.TabIndex = 5;
             this.btnConsultPedido.Text = "Consultar Pedido";
             this.btnConsultPedido.UseVisualStyleBackColor = true;
+            this.btnConsultPedido.Click += new System.EventHandler(this.btnConsultPedido_Click);
             // 
             // Principal
             // 
@@ -97,10 +101,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(189, 288);
             this.Controls.Add(this.btnConsultPedido);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnCadUsuario);
+            this.Controls.Add(this.btnCadPedido);
+            this.Controls.Add(this.btnCadProduto);
+            this.Controls.Add(this.btnCadCliente);
             this.Controls.Add(this.label1);
             this.Name = "Principal";
             this.Text = "Principal";
@@ -112,10 +116,10 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button btnCadCliente;
+        private System.Windows.Forms.Button btnCadProduto;
+        private System.Windows.Forms.Button btnCadPedido;
+        private System.Windows.Forms.Button btnCadUsuario;
         private System.Windows.Forms.Button btnConsultPedido;
     }
 }
