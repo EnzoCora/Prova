@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\provaprogestru\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|solutionrelative:provaprogestru\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\provaprogestru\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|solutionrelative:provaprogestru\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|c:\\users\\enzo cor\u00E1\\source\\repos\\prova2\\provaprogestru\\provaprogestru\\consultapedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|solutionrelative:provaprogestru\\consultapedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|c:\\users\\enzo cor\u00E1\\source\\repos\\prova2\\provaprogestru\\provaprogestru\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\provaprogestru\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|solutionrelative:provaprogestru\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\provaprogestru\\cadcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|solutionrelative:provaprogestru\\cadcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\provaprogestru\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|solutionrelative:provaprogestru\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\provaprogestru\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\provaprogestru\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|solutionrelative:provaprogestru\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\provaprogestru\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|solutionrelative:provaprogestru\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CF0608F-F9B3-4033-AE7C-D17E339B6810}|ProvaProgEstru\\ProvaProgEstru.csproj|C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\provaprogestru\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ConsultaPedido.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\ProvaProgEstru\\ConsultaPedido.cs",
               "RelativeDocumentMoniker": "ProvaProgEstru\\ConsultaPedido.cs",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\ProvaProgEstru\\Form1.cs",
               "RelativeDocumentMoniker": "ProvaProgEstru\\Form1.cs",
@@ -74,11 +74,12 @@
               "RelativeToolTip": "ProvaProgEstru\\Form1.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAIwCMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T03:23:31.381Z"
+              "WhenOpened": "2025-06-11T03:23:31.381Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Produtos.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\ProvaProgEstru\\Produtos.cs",
               "RelativeDocumentMoniker": "ProvaProgEstru\\Produtos.cs",
@@ -89,30 +90,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Principal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\ProvaProgEstru\\Principal.cs",
               "RelativeDocumentMoniker": "ProvaProgEstru\\Principal.cs",
               "ToolTip": "C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\ProvaProgEstru\\Principal.cs [Design]",
               "RelativeToolTip": "ProvaProgEstru\\Principal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T03:52:52.8Z"
+              "WhenOpened": "2025-06-11T03:52:52.8Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Principal.cs",
               "DocumentMoniker": "C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\ProvaProgEstru\\Principal.cs",
               "RelativeDocumentMoniker": "ProvaProgEstru\\Principal.cs",
               "ToolTip": "C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\ProvaProgEstru\\Principal.cs",
               "RelativeToolTip": "ProvaProgEstru\\Principal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwC4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T03:53:13.956Z"
+              "WhenOpened": "2025-06-11T03:53:13.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CadCliente.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\ProvaProgEstru\\CadCliente.cs",
               "RelativeDocumentMoniker": "ProvaProgEstru\\CadCliente.cs",
@@ -123,15 +126,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Pedidos.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\ProvaProgEstru\\Pedidos.cs",
               "RelativeDocumentMoniker": "ProvaProgEstru\\Pedidos.cs",
               "ToolTip": "C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\ProvaProgEstru\\Pedidos.cs [Design]",
               "RelativeToolTip": "ProvaProgEstru\\Pedidos.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T02:07:19.297Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-13T02:07:19.297Z"
             },
             {
               "$type": "Document",
@@ -142,7 +144,8 @@
               "ToolTip": "C:\\Users\\Enzo Cor\u00E1\\source\\repos\\Prova2\\ProvaProgEstru\\ProvaProgEstru\\Form1.cs [Design]",
               "RelativeToolTip": "ProvaProgEstru\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T04:34:37.333Z"
+              "WhenOpened": "2025-06-12T04:34:37.333Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",

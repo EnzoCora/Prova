@@ -43,7 +43,8 @@ namespace ProvaProgEstru
 
         private void btnConsultPedido_Click(object sender, EventArgs e)
         {
-
+            ConsultaPedido consultaPedido = new ConsultaPedido();
+            consultaPedido.ShowDialog();
         }
     }
 }
